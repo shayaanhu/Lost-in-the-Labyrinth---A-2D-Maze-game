@@ -1,3 +1,3 @@
-A 2D maze runner game made in Python using pygame. 
+A 2D maze game made in Python using pygame. 
 
 Progress videos: https://www.youtube.com/@lostinthelabyrinthdsa
